@@ -2,6 +2,8 @@
 A Foxx based geo example using the new (v3.4+) s2 geospatial index
 This example will work with ArangoDB 3.4 and upcoming versions.
 
+*REQUIRES: node.js v8, this will not compile if you are utilising node.js v10.*
+
 ![Alt text](/images/geo-screenshot.png?raw=true "Data via Foxx shown via leaflet.js")
 
 # Preparations
